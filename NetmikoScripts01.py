@@ -1,4 +1,3 @@
-# Netmiko Requires rsa key generated in remote hosts.
 
 from netmiko import ConnectHandler
 iosv_l2 = {
