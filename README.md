@@ -1,4 +1,4 @@
-# crispy-adventure
+
 Network Automation (IOS) -
 This netmiko script uses iosvl2 image and Python 2.7 as a test environment
 Basically this code does three functions:
